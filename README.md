@@ -1,4 +1,6 @@
 Author: Katla Rohith Kumar Reddy 
+
+
 Control Audio and Video Elements from all tabs from the add-on/extension toolbox
 
 <b>Features:</b>
